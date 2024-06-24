@@ -1,0 +1,8 @@
+コードを実行する際の注意点
+
+
+PS C:\Users\yama7\OneDrive - 大和大学\デスクトップ> streamlit run class\\streamlit\\Stream_Tutorial1.py
+
+受付の状態がデスクトップディレクトリであるのでそこからstreamlit run (相対パス)
+で起動することができる
+※この受付状態であれば絶対パスは不可
